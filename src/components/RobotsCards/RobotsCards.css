@@ -1,0 +1,13 @@
+body {
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/webb.png");
+  }
+  
+  .container-fluid {
+    text-align: center;
+  }
+  
+  .robot-avatars {
+    width: 250px;
+    height: 250px;
+  }
+  

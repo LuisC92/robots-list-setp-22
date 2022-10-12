@@ -1,0 +1,11 @@
+.grid-layout {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 300px);
+    justify-content: center;
+    grid-gap: 10px;
+    max-width: 100%;
+  }
+  
+  body {
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/webb.png");
+  }
